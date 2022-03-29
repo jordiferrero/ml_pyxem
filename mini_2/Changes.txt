@@ -1,0 +1,12 @@
+Importing Libraries
+
+Pyxem v0.13.0: utils.sim_utils removed, instead use the relevant diffsims functionality (get_diffraction_pattern)
+Hyperspy v1.3: GUI not installed by default, had to install hyperspy_gui_ipywidgets and hyperspy_gui_traitsui packages
+
+Initialization
+
+Different path
+
+Questions
+1. Where are the calibration values from?/Does it need to be reoptimized every time?
+2. Can't find documentation on 'create_diffraction_library'?
